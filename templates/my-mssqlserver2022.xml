@@ -3,7 +3,7 @@
   <Name>mssqlserver2022</Name>
   <Repository>mcr.microsoft.com/mssql/server:2022-latest</Repository>
   <Registry/>
-  <Network>nasty</Network>
+  <Network>Host</Network>
   <MyIP/>
   <Shell>bash</Shell>
   <Privileged>false</Privileged>
