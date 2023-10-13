@@ -19,7 +19,7 @@ For a complete set of Environment Variables go to -&amp;gt; https://learn.micros
   <Category>Productivity: Tools: Other: Status:Stable</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon>https://github.com/SillyStrategy/unraid/blob/main/templates/icons/mssqlserver2022.png</Icon>
+  <Icon>https://raw.githubusercontent.com/SillyStrategy/unraid/main/templates/icons/mssqlserver2022.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
