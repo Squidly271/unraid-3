@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>bash</Shell>
   <Privileged>false</Privileged>
-  <Support>https://forums.unraid.net/topic/146406-support-ms-sql-server-2022/<Support/>
+  <Support>https://forums.unraid.net/topic/146406-support-ms-sql-server-2022/</Support>
   <Project>https://www.microsoft.com/en-us/sql-server/</Project>
   <Overview>*** INSTALLATION STEPS ***&#xD;
 - first run is going to fail because of folder permissions&#xD;
